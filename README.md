@@ -11,3 +11,15 @@ The code of TDNet.
   publisher={IEEE}
 }
 ~~~
+
+Training 
+~~~
+python Train.py
+~~~
+
+
+Testing
+~~~
+python Test.py
+~~~
+
