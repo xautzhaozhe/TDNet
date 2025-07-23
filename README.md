@@ -1,6 +1,6 @@
 # TDNet
 The code of TDNet.
-
+~~~
 @article{sun2022tensor,
   title={Tensor decomposition-inspired convolutional autoencoders for hyperspectral anomaly detection},
   author={Sun, Bangyong and Zhao, Zhe and Liu, Di and Gao, Xiaomei and Yu, Tao},
@@ -10,3 +10,4 @@ The code of TDNet.
   year={2022},
   publisher={IEEE}
 }
+~~~
